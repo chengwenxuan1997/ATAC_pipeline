@@ -1,5 +1,5 @@
 # ATAC_pipeline
-a preliminary to process the .bw file
+a preliminary pipeline to process the .bw file
 
 **Data**  
 Take [GSE112813](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE112813) for example.  
